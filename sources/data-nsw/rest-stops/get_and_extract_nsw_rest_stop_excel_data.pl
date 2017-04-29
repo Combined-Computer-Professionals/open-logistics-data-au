@@ -31,6 +31,10 @@
 
 Currently dumps perl structure of content followed by a GeoJSON string
 
+=head2 AUTHOR
+
+  peter@pscott.com.au
+
 =cut 
 
 use strict;
