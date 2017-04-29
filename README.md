@@ -5,6 +5,11 @@ As more agencies commit to provided access to information through open data init
 difficult to fully exploit them. This repo aims to collect related data sources from different authorities 
 and combine key aspects of them into a common format.
 
+
+## Current Status
+
+The first stage will be to collect all available rest-stop data from Australian state sources. Currently detailed facilities are not included in the derived data but this will be prioritised once all state sources have been initially parsed and the location coordinates populated into a single data set.
+
 # Data Sources
 
 ## [QLD Rest Store Data](source/data-qld/rest-stops/)
@@ -13,6 +18,7 @@ and combine key aspects of them into a common format.
 
 ## [NSW Rest Stop Data](sources/data-nsw/rest-stops/)
 
+## [VIC Rest Stop Data](sources/data-vic/rest-stops/)
 
 # Common Infrastructure Components
 

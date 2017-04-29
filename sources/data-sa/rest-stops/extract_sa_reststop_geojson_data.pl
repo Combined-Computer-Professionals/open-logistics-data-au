@@ -21,7 +21,7 @@ nb - source DATE_DECOMISSIONED not checked
 
 =cut 
 
-my $source = '/Users/peter/Downloads/RestAreas_geojson/RestAreas.geojson';
+my $source = './RestAreas.geojson';
 my $text = read_file( $source ) ;
 if ( my $data = from_json( $text ) )
 {
