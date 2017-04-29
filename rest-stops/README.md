@@ -13,21 +13,19 @@ $rest_stops = [
     address
     description
     area_poly 
-    responsible_authority
+    responsible_authority => '',
     features => {
       light_vehcile => 0,
       heavy_vehicle => 0,
       load_checking => 
-      Toilets 
-      Shelter
-      Picnic Tables 
-      BBQ Facilities
-      Litter Bins
-      Wheelchair Accessible
-      Playground
-      Emergency Phone
-
-
+     'Shelter' => 0,
+     'Wheelchair Accessible' => 0,
+     'Playground' => 0,
+     'Emergency Phone' => 0,
+     'Litter Bins' => 0,
+     'Toilets' => 0,
+     'BBQ Facilities' => 0,
+     'Picnic Tables' => 0
     }
     access_from_north
     access_from_south
