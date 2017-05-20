@@ -30,5 +30,9 @@ The first stage will be to collect all available rest-stop data from Australian 
 
 ## Use Cases
 
+## Credits and Thanks
+
+[Felicity Jane Digital Design and SEO - Sunshine Coast Australia](https://www.felicityjane.com.au)
+
 
 
