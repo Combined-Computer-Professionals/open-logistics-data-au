@@ -1,5 +1,7 @@
 # rest-stops
 
+This data set was initially explored as part of a bid to participate in the Queensland TWIG program. Although our bid was unsuccessful, we intend to continue to refine this data set.
+
 In order to combine the sources of rest-stop data published by state authorities we first need a common structure. 
 
 ````
